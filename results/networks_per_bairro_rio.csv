@@ -1,0 +1,167 @@
+area_plane,nome_ap,nome,network_count
+1,AP1 - Centro,Paquetá,482.0
+3,AP3 - Zona Norte,Freguesia (Ilha),2.0
+3,AP3 - Zona Norte,Bancários,0.0
+3,AP3 - Zona Norte,Galeão,6745.0
+3,AP3 - Zona Norte,Tauá,0.0
+3,AP3 - Zona Norte,Portuguesa,573.0
+3,AP3 - Zona Norte,Moneró,0.0
+3,AP3 - Zona Norte,Vigário Geral,1631.0
+3,AP3 - Zona Norte,Cocotá,0.0
+3,AP3 - Zona Norte,Jardim América,97.0
+3,AP3 - Zona Norte,Jardim Carioca,15.0
+3,AP3 - Zona Norte,Pavuna,6505.0
+3,AP3 - Zona Norte,Jardim Guanabara,2972.0
+3,AP3 - Zona Norte,Parque Colúmbia,401.0
+3,AP3 - Zona Norte,Praia da Bandeira,39.0
+3,AP3 - Zona Norte,Penha Circular,4126.0
+3,AP3 - Zona Norte,Cacuia,560.0
+3,AP3 - Zona Norte,Anchieta,1745.0
+3,AP3 - Zona Norte,Acari,692.0
+3,AP3 - Zona Norte,Pitangueiras,279.0
+3,AP3 - Zona Norte,Costa Barros,159.0
+3,AP3 - Zona Norte,Penha,5317.0
+3,AP3 - Zona Norte,Zumbi,539.0
+3,AP3 - Zona Norte,Ribeira,1030.0
+3,AP3 - Zona Norte,Coelho Neto,2224.0
+3,AP3 - Zona Norte,Guadalupe,1653.0
+3,AP3 - Zona Norte,Parque Anchieta,1299.0
+3,AP3 - Zona Norte,Barros Filho,461.0
+3,AP3 - Zona Norte,Ricardo de Albuquerque,1101.0
+3,AP3 - Zona Norte,Colégio,2476.0
+3,AP3 - Zona Norte,Honório Gurgel,75.0
+3,AP3 - Zona Norte,Olaria,2604.0
+3,AP3 - Zona Norte,Maré,6580.0
+5,AP5 - Zona Oeste,Vila Militar,3926.0
+3,AP3 - Zona Norte,Cidade Universitária,2862.0
+3,AP3 - Zona Norte,Rocha Miranda,1621.0
+3,AP3 - Zona Norte,Ramos,4000.0
+5,AP5 - Zona Oeste,Realengo,13345.0
+3,AP3 - Zona Norte,Vila Kosmos,1092.0
+3,AP3 - Zona Norte,Marechal Hermes,1761.0
+3,AP3 - Zona Norte,Vicente de Carvalho,2240.0
+5,AP5 - Zona Oeste,Paciência,977.0
+3,AP3 - Zona Norte,Engenho da Rainha,2046.0
+3,AP3 - Zona Norte,Complexo do Alemão,1073.0
+3,AP3 - Zona Norte,Vaz Lobo,1170.0
+5,AP5 - Zona Oeste,Padre Miguel,10670.0
+3,AP3 - Zona Norte,Bento Ribeiro,2086.0
+3,AP3 - Zona Norte,Turiaçú,280.0
+3,AP3 - Zona Norte,Bonsucesso,5415.0
+3,AP3 - Zona Norte,Inhaúma,5093.0
+3,AP3 - Zona Norte,Tomás Coelho,703.0
+5,AP5 - Zona Oeste,Santíssimo,1833.0
+3,AP3 - Zona Norte,Madureira,14832.0
+3,AP3 - Zona Norte,Osvaldo Cruz,1353.0
+5,AP5 - Zona Oeste,Santa Cruz,5526.0
+5,AP5 - Zona Oeste,Magalhães Bastos,3374.0
+5,AP5 - Zona Oeste,Senador Camará,1107.0
+3,AP3 - Zona Norte,Cavalcanti,385.0
+5,AP5 - Zona Oeste,Campo dos Afonsos,183.0
+3,AP3 - Zona Norte,Higienópolis,2354.0
+3,AP3 - Zona Norte,Manguinhos,3889.0
+3,AP3 - Zona Norte,Engenheiro Leal,239.0
+3,AP3 - Zona Norte,Pilares,4286.0
+3,AP3 - Zona Norte,Del Castilho,9279.0
+3,AP3 - Zona Norte,Piedade,6252.0
+3,AP3 - Zona Norte,Cascadura,7915.0
+4,AP4 - Barra e Jacarepaguá,Vila Valqueire,6398.0
+3,AP3 - Zona Norte,Maria da Graça,818.0
+3,AP3 - Zona Norte,Quintino Bocaiúva,4149.0
+5,AP5 - Zona Oeste,Jardim Sulacap,7592.0
+3,AP3 - Zona Norte,Campinho,2016.0
+3,AP3 - Zona Norte,Abolição,3722.0
+5,AP5 - Zona Oeste,Senador Vasconcelos,869.0
+5,AP5 - Zona Oeste,Cosmos,1289.0
+3,AP3 - Zona Norte,Jacarezinho,889.0
+3,AP3 - Zona Norte,Cachambi,12940.0
+4,AP4 - Barra e Jacarepaguá,Praça Seca,11748.0
+1,AP1 - Centro,Benfica,5808.0
+3,AP3 - Zona Norte,Engenho de Dentro,11234.0
+1,AP1 - Centro,Imperial de São Cristóvão,16805.0
+1,AP1 - Centro,Vasco da Gama,1435.0
+5,AP5 - Zona Oeste,Inhoaíba,498.0
+3,AP3 - Zona Norte,Todos os Santos,4698.0
+3,AP3 - Zona Norte,Jacaré,836.0
+3,AP3 - Zona Norte,Encantado,5159.0
+3,AP3 - Zona Norte,Rocha,4922.0
+3,AP3 - Zona Norte,Méier,10801.0
+1,AP1 - Centro,Gamboa,1839.0
+1,AP1 - Centro,Santo Cristo,7650.0
+1,AP1 - Centro,Centro,75502.0
+3,AP3 - Zona Norte,Sampaio,2558.0
+3,AP3 - Zona Norte,Riachuelo,3753.0
+1,AP1 - Centro,Saúde,841.0
+3,AP3 - Zona Norte,São Francisco Xavier,4681.0
+3,AP3 - Zona Norte,Engenho Novo,10483.0
+1,AP1 - Centro,Mangueira,1412.0
+4,AP4 - Barra e Jacarepaguá,Tanque,7791.0
+4,AP4 - Barra e Jacarepaguá,Taquara,36045.0
+3,AP3 - Zona Norte,Água Santa,1806.0
+3,AP3 - Zona Norte,Lins de Vasconcelos,2679.0
+4,AP4 - Barra e Jacarepaguá,Freguesia (Jacarepaguá),20220.0
+1,AP1 - Centro,Cidade Nova,8107.0
+2,AP2 - Zona Sul,Praça da Bandeira,9273.0
+2,AP2 - Zona Sul,Vila Isabel,49932.0
+2,AP2 - Zona Sul,Maracanã,21841.0
+2,AP2 - Zona Sul,Glória,7646.0
+1,AP1 - Centro,Rio Comprido,11061.0
+1,AP1 - Centro,Santa Teresa,6697.0
+1,AP1 - Centro,Estácio,2740.0
+2,AP2 - Zona Sul,Tijuca,68406.0
+1,AP1 - Centro,Catumbi,2419.0
+2,AP2 - Zona Sul,Grajaú,22097.0
+4,AP4 - Barra e Jacarepaguá,Pechincha,11067.0
+2,AP2 - Zona Sul,Andaraí,23891.0
+2,AP2 - Zona Sul,Catete,18709.0
+2,AP2 - Zona Sul,Flamengo,50396.0
+2,AP2 - Zona Sul,Laranjeiras,27874.0
+5,AP5 - Zona Oeste,Guaratiba,8550.0
+4,AP4 - Barra e Jacarepaguá,Vargem Grande,703.0
+2,AP2 - Zona Sul,Alto da Boa Vista,1320.0
+2,AP2 - Zona Sul,Cosme Velho,5173.0
+4,AP4 - Barra e Jacarepaguá,Curicica,7791.0
+2,AP2 - Zona Sul,Botafogo,57970.0
+2,AP2 - Zona Sul,Urca,9395.0
+4,AP4 - Barra e Jacarepaguá,Cidade de Deus,1395.0
+5,AP5 - Zona Oeste,Sepetiba,1852.0
+4,AP4 - Barra e Jacarepaguá,Anil,1070.0
+4,AP4 - Barra e Jacarepaguá,Jacarepaguá,6068.0
+4,AP4 - Barra e Jacarepaguá,Camorim,63.0
+2,AP2 - Zona Sul,Humaitá,6357.0
+4,AP4 - Barra e Jacarepaguá,Gardênia Azul,349.0
+2,AP2 - Zona Sul,Jardim Botânico,13274.0
+4,AP4 - Barra e Jacarepaguá,Vargem Pequena,334.0
+2,AP2 - Zona Sul,Copacabana,68812.0
+2,AP2 - Zona Sul,Leme,4233.0
+2,AP2 - Zona Sul,Lagoa,23632.0
+4,AP4 - Barra e Jacarepaguá,Itanhangá,540.0
+2,AP2 - Zona Sul,Gávea,6866.0
+4,AP4 - Barra e Jacarepaguá,Barra da Tijuca,60235.0
+2,AP2 - Zona Sul,Leblon,25363.0
+2,AP2 - Zona Sul,Ipanema,14991.0
+2,AP2 - Zona Sul,São Conrado,10464.0
+2,AP2 - Zona Sul,Rocinha,68.0
+5,AP5 - Zona Oeste,Pedra de Guaratiba,707.0
+4,AP4 - Barra e Jacarepaguá,Recreio dos Bandeirantes,30823.0
+2,AP2 - Zona Sul,Vidigal,96.0
+4,AP4 - Barra e Jacarepaguá,Joá,179.0
+5,AP5 - Zona Oeste,Barra de Guaratiba,1.0
+4,AP4 - Barra e Jacarepaguá,Grumari,0.0
+1,AP1 - Centro,Caju,6853.0
+5,AP5 - Zona Oeste,Deodoro,1892.0
+1,AP1 - Centro,Lapa,5191.0
+5,AP5 - Zona Oeste,Campo Grande,11057.0
+5,AP5 - Zona Oeste,Bangu,19928.0
+5,AP5 - Zona Oeste,Gericinó,31.0
+5,AP5 - Zona Oeste,Jabour,21.0
+5,AP5 - Zona Oeste,Vila Kennedy,812.0
+5,AP5 - Zona Oeste,Ilha de Guaratiba,147.0
+4,AP4 - Barra e Jacarepaguá,Barra Olímpica,28269.0
+3,AP3 - Zona Norte,Parada de Lucas,4345.0
+3,AP3 - Zona Norte,Cordovil,2129.0
+3,AP3 - Zona Norte,Irajá,11948.0
+3,AP3 - Zona Norte,Brás de Pina,1421.0
+3,AP3 - Zona Norte,Vista Alegre,3244.0
+3,AP3 - Zona Norte,Vila da Penha,5983.0
+3,AP3 - Zona Norte,Argentino,1.0
